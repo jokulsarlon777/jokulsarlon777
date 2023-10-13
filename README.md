@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+## jokulsarlon777's Github
 
-**jokulsarlon777/jokulsarlon777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Skill list
+
+
 <!--
 Here are some ideas to get you started:
 
