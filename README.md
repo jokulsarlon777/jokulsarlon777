@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jokulsarlon777's%20Github&fontSize=60&fontColor=FFFFFF)
 
-## Tech Stack
+<h2> Tech Stack </h2>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
