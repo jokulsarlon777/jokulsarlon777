@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jokulsarlon777's%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jokulsarlon777's%20Github&fontSize=60&fontColor=d6ace6)
 
 ## Tech Stack
 
