@@ -11,6 +11,15 @@
 
 </div>
 
+## Tools & Enviroments
+
+<div align="center">
+	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+	<img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
+
+</div>
 
 
 <!--
